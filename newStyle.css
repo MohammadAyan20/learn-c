@@ -1,0 +1,40 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#header{
+    color: white;
+    background-color:#0f1111;
+    height: 60px;
+    border-width: 10px;
+    border-style: solid;
+    border-color:white;
+}
+
+#one{
+    font-size: 25px;
+    color:#f08804;
+}
+a{
+    margin-right: 200px;
+}
+button{
+    color: white;
+}
+
+.myclass{
+    padding: 150px;
+    display: inline-block;
+    margin: 5px;
+    margin-left: 50px;
+    background-image: url("photo.jpg");
+    background-size: cover;
+    
+}
+
+footer{
+    background-color: black;
+    color: white;
+    height: 200px;
+}
